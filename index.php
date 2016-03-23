@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Mandy Technologies Private Limited</title>
+        <title>Mandy Technologies Private Limited | Web Development Company</title>
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
         <link rel="icon" href="favicon.ico" type="image/x-icon">
         <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Candal">
